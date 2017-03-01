@@ -1,4 +1,4 @@
-# ms08-67automation
+# ms08-067automation
 Automate ms08-67 netapi attacks  
 
 # Setup
